@@ -6,3 +6,4 @@ const add = curry((num1, num2) => {
 
 add(1, 2);
 add(1)(2);
+add(3, 4);
